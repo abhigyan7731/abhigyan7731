@@ -45,13 +45,19 @@ Here are some of the key solutions I am developing:
 
 ---
 
+---
+
 ## 📊 Analytics & LeetCode Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhigyan7731&show_icons=true&theme=tokyonight" alt="Abhigyan's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/leetcode?username=Abhigyan007&theme=tokyonight" alt="Abhigyan's LeetCode Stats" />
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Abhigyan007?theme=dark&font=Fira%20Code&ext=activity" alt="Abhigyan's LeetCode Stats" />
+</p>
+
+---
 
 ---
 
