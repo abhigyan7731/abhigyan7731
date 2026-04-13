@@ -82,11 +82,15 @@
 
 <div align="center">
 
-![Abhigyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigyan7731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhigyan7731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan7731&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyan7731&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhigyan7731&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=abhigyan7731&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -96,7 +100,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhigyan7731&theme=darkhub&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=abhigyan7731&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
