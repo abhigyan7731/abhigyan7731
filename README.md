@@ -1,67 +1,113 @@
-# Hi there, I'm Abhigyan Kumar Gupta 👋 🚀
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Computer+Science+Engineering+Student;ML+Enthusiast+%7C+FullStack+Dev;Building+QLINIC+%26+CKD-Prediction" alt="Typing SVG" />
+
+# 👋 Hey, I'm Abhigyan Kumar Gupta
+
+### 🚀 Full Stack Developer · 🤖 AI Enthusiast · 💡 Problem Solver
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge)](https://abhigyan-portfolio-website.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Abhigyan007-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Abhigyan007/)
+[![Email](https://img.shields.io/badge/Gmail-abhigyankumar268-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhigyankumar268@gmail.com)
+
 </div>
 
-<p align="center">
-  <a href="https://abhigyan-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/u/Abhigyan007/">
-    <img src="https://img.shields.io/badge/-LeetCode-FA9300?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="mailto:abhigyankumar268@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+---
+
+## 🧠 About Me
+
+> *Building products at the intersection of AI and real-world problems.*
+
+- 🎓 Developer from **India** with a passion for building things that actually work
+- 🔭 Currently working on **AI-powered finance platforms** and **healthcare ML models**
+- 🌱 Always learning — DSA, system design, and production-grade full stack
+- ⚡ I don't just clone apps — I rebuild them with AI on top
+- 🎯 Goal: Ship products, not just projects
 
 ---
 
-## 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & AI**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 🏗️ Highlighted Projects
-Here are some of the key solutions I am developing:
+## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🏥 CKD Prediction** | AI-based Chronic Kidney Disease stage detection and treatment planning. | Python, ML, Scikit-Learn |
-| **🩺 QLINIC** | Streamlined healthcare platform interface for medical management. | Next.js, Clerk, Supabase |
-| **LMS** | AI-integrated Learning Management System for modern education. | Python, Java, Firebase |
-| **Finance-UI** | High-performance dashboard UI for financial tracking. | JavaScript, React, Tailwind |
-
----
-
----
-
-## 📊 Analytics & LeetCode Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhigyan7731&show_icons=true&theme=tokyonight" alt="Abhigyan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhigyan007?theme=dark&font=Fira%20Code&ext=activity" alt="Abhigyan's LeetCode Stats" />
-</p>
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🏦 [**AI Finance Platform**](https://github.com/abhigyan7731/ai-finance-platform-main) | AI-powered personal finance tracker with insights | JS, OpenAI | 🟢 Live |
+| 📊 [**Finance Dashboard UI**](https://github.com/abhigyan7731/Finance-Dashboard-UI) | Interactive finance dashboard with real-time charts | JavaScript | 🟢 Live |
+| 🧬 [**CKD Stage Prediction AI**](https://github.com/abhigyan7731/CKD-Stage-Prediction-and-Treatment-AI-Based) | ML model to predict Chronic Kidney Disease stages | Python, ML | ✅ Done |
+| 🏥 [**QLinic**](https://github.com/abhigyan7731/qlinic) | Healthcare queue management system | JavaScript | ✅ Done |
+| 💰 [**AI Splitwise Clone**](https://github.com/abhigyan7731/ai-splitwise-clone) | Bill splitting app with AI categorization | JavaScript | ✅ Done |
+| 🎓 [**LMS Platform**](https://github.com/abhigyan7731/LMS) | Learning Management System | JavaScript | ✅ Done |
+| 🛒 [**E-Commerce Website**](https://github.com/abhigyan7731/E-commerce-website) | Full-featured online store | JavaScript | ✅ Done |
+| 🌐 [**Portfolio Website**](https://github.com/abhigyan7731/Portfolio-Website) | Personal portfolio with animations | JS, CSS | 🟢 Live |
 
 ---
 
+## 📈 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhigyan007?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/Abhigyan007/)
+
+</div>
+
 ---
 
-### 📫 Connect With Me
-* 📍 Based in: India 🇮🇳
-* 🔭 Currently exploring OCI Generative AI services.
-* 🌱 Always open to collaboration on ML and Web Development projects.
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Abhigyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigyan7731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan7731&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhigyan7731&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhigyan7731&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Code is not just syntax — it's a solution to someone's problem."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhigyan7731&color=blueviolet&style=flat-square)
+
+⭐ **If you like my work, drop a star on any repo!**
+
+</div>
